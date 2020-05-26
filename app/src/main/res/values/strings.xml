@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">JessicaChicaiza-examen</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="bienvenido">Usuario Conectado:</string>
+    <string name="nombre">Nombre</string>
+    <string name="monto">Monto Inicial</string>
+    <string name="cuota">Pago Mensual</string>
+    <string name="calcular">Calcular</string>
+    <string name="pregunta1">¿Por qué eligió este centro?</string>
+    <string name="pregunta2">¿Que deportes Practica?</string>
+    <string name="pregunta3">Esta interesado en aprender otro idioma aparte del inglés</string>
+    <string name="encuesta">Encuesta</string>
+    <string name="res_encuesta">Respuestas de la Encuesta</string>
+    <string name="futbol">Fútbol</string>
+    <string name="basketball">Basketball</string>
+    <string name="voley">Voley</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="respuesta">Escribe tu respuesta aquí</string>
+    <string name="enviar">Enviar Respuestas</string>
+    <string name="preg1">Pregunta 1</string>
+    <string name="preg2">Pregunta 2</string>
+    <string name="preg3">Pregunta 3</string>
+    <string name="gracias">Gracias por Participar</string>
+    <string name="resumen">Resumen de Inscripción</string>
+    <string name="total">Total a Pagar</string>
+    <string name="Guardar">Guardar</string>
+    <string name="simbolo">$0.00</string>
 </resources>
